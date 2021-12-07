@@ -1,6 +1,7 @@
 # Assignment_5_Frontend
 
 This is a single page application made using react.js. It is a wenpage that showcases the microservice application created for assignment 5. 
+This application uses axios to fetch data from api.
 
 There are 5 endpoints in this app that displays results from server accordingly
 
